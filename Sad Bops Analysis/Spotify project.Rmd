@@ -11,9 +11,6 @@ library(spotifyr)
 library(scales)
 library(geniusr)
 source("client.R")
-access_token <- get_spotify_authorization_code()
-Sys.setenv("plotly_username"="bsrose")
-Sys.setenv("plotly_api_key"="FENshrUBf4NqFwd7egfj")
 ```
 
 ```{r, playing, include = FALSE}
