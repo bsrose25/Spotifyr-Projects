@@ -166,7 +166,7 @@ bar_dist %>%
   ) %>% 
   #source note
   tab_source_note(md("**Source**: @baileysutton <br> 
-                    **Data**: Spotify <i>via</i> spotifyr @R-Charlie | **Inspiration**: @thomas_mock")) %>% 
+                    **Data**: Spotify <i>via</i> spotifyr @_RCharlie | **Inspiration**: @thomas_mock")) %>% 
   #theme
   tab_options(
     heading.align = "left",
