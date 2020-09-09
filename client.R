@@ -1,0 +1,3 @@
+Sys.setenv(SPOTIFY_CLIENT_ID = 'fd216953faa94490a9e6c7218666cd2b')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = '45e86673b7e24764b17130701f1cb474')
+Sys.setenv(genius_token = "sJnur5llN8UBb7I5VGznSa0TSTeO-M-Ei02j-p6FX-bH5o8A0Y3XqJPqVSYp1-kh")
